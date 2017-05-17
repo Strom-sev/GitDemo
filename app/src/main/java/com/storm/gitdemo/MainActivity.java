@@ -16,9 +16,11 @@ public class MainActivity extends AppCompatActivity {
         initData();
     }
 
-    private void initData(){
+    private void initData() {
+
     }
+
     private void initView() {
-        tv_mian = (TextView)findViewById(R.id.tv_mian);
+        tv_mian = (TextView) findViewById(R.id.tv_mian);
     }
 }
